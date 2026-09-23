@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0a11fd38248a830d82cdc931",
+  "owner": "mk5ajyye",
+  "repo": "page-774e9ff07d991b26765c6706",
+  "title": "心蓝云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "774e9ff07d991b26765c6706",
+      "a": "心蓝云",
+      "b": "机场官网线路发布页",
+      "entity": "心蓝云",
+      "brand": "心蓝云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "141f49464fe79eb7c411bb6b561592cc2c63adf0eab37b79f8c6732563c8949a",
+      "content": {
+        "primary_entity": "心蓝云",
+        "keyword1": "心蓝云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖个人日常到团队协作的加速场景。基础版每月100GB流量、3台设备；旗舰版每月300GB流量、5台设备，并含 IPLC 专线游戏加速优化；团队版每月1000GB流量、20台设备，支持企业定制路由。全系支持主流流媒体解锁，年付方案更划算。按设备选择客户端，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与专线加速选择",
+          "AI_HERO_INTRO": "心蓝云面向需要稳定海外网络加速的用户，提供按月或按年订阅的基础版、旗舰版和团队版。不同套餐在流量、设备数与线路类型上有清晰区分，方便根据使用强度挑选。客户端依据设备系统选择，参考配置文档导入订阅后即可连接。",
+          "AI_VISUAL_TITLE": "心蓝云加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度介绍套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版300GB，团队版1000GB。日常浏览选基础版，多设备高清选旗舰版，团队共享选团队版。",
+          "AI_FEATURE_TITLE_2": "按设备数选",
+          "AI_FEATURE_TEXT_2": "基础版3台，旗舰版5台，团队版20台。手机、电脑、平板同时在线时，设备数需求决定套餐下限。",
+          "AI_FEATURE_TITLE_3": "按线路类型选",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，基础版为普通线路节点池。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统挑选客户端，桌面端与移动端配置方式不同。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。按需选择并导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按三步完成心蓝云订阅配置与连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与计划同时在线数量，核对所选套餐支持的设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端配置文档导入订阅，完成连接后即可使用对应节点。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "心蓝云套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数判断。100GB 以内、3 台设备选基础版；需要流媒体解锁和专线游戏加速选旗舰版；团队多人共享选团队版。",
+          "AI_FAQ_QUESTION_2": "支持哪些设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台。超出设备数需升级套餐或减少同时连接数量。",
+          "AI_FAQ_QUESTION_3": "年付和月付有区别吗？",
+          "AI_FAQ_ANSWER_3": "年付价格更优惠，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年；月付按月续订，灵活度更高。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再从心蓝云获取订阅链接，按客户端文档指引粘贴或扫码导入，更新节点后即可连接。",
+          "AI_FAQ_QUESTION_5": "游戏加速需要选哪档？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化，对延迟敏感的游戏场景更合适；团队版提供 VIP 高带宽节点，适合多人协作。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定版本，按文档导入订阅，开始使用心蓝云加速。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lanxiai.cn",
+    "host": "lanxiai.cn"
+  },
+  "file_hashes": {
+    "index.html": "09d71643b9f80e866567e1b84a20ca80d7128dba5907d40e277e422ef60fe0d8",
+    "sitemap.xml": "094a4558dc958b174e73b60056f7b3ed74d50693228235f678265adf3bc3892a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c51292ca1aebb7b692cbbca8c03a62694a9d6b2630aac0cca3ac6a1b06364e43",
+    "robots.txt": "fe0d21f3a477b8c2d0f574a040c3b37246cfed9ad7eacc829a615182a3bc30f4",
+    "169196d78f1e0e6cec5a5d22e5bd1d58.txt": "ffd9f326fbbf6a8d13223228541f49b006b5a01521a21728be22ff5d8a10d180"
+  },
+  "revision": "1464cc398244d3a30a6574643d46c15a32da7c11bc48ccf7ea9062706ee4acd6"
+}
